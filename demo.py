@@ -9,8 +9,11 @@ class GoogleSpider(scrapy.Spider):
        	for brickset in response.css(SET_SELECTOR):
             
             NAME_SELECTOR = 'h3 a ::text'
+            LINK_SELECTOR = 'a ::attr(href)'
+
             yield {
                 'name': brickset.css(NAME_SELECTOR).extract_first(),
+                'link': brickset.css(LINK_SELECTOR).extract_first(),
             }
 
         for i in range(10):
@@ -22,4 +25,3 @@ class GoogleSpider(scrapy.Spider):
                     response.urljoin(next_page),
                     callback=self.parse
                 )
-
