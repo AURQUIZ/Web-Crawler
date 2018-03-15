@@ -19,7 +19,7 @@ def get_content():
     data = get_links()
     algo = client.algo("util/Url2Text/0.1.4")
     # Limit content extracted to only blog articles
-    content = [{"url": link, "content": algo.pipe(link).result} for link in data if link.startswith("https://www.google.com/")]
+    content = [{"url": link, "content": algo.pipe(link).result} for link in data if link.startswith("http://")]
     return content
 
 def find_sentiment():
