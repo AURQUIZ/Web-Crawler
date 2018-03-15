@@ -16,4 +16,6 @@ https://blog.hartleybrody.com/web-scraping-cheat-sheet/
 
 https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
 
+https://github.com/anthonyhseb/googlesearch
+
 
