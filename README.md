@@ -7,4 +7,4 @@ Jose Galeano
 Eric Leon
 Antwan Love
 
-Faculty advisor for the project is Cynthia Taylor, PhD. Cynthia Taylor is currently an Assistant Professor at Oberlin College.
+Faculty advisor for the project is Dr. Cynthia Taylor, PhD. Dr. Cynthia Taylor is currently an Assistant Professor at Oberlin College.
