@@ -1,5 +1,7 @@
 # Google Web-Crawler
-Group project for CS 398 (Undergrad Research) at University of Illinois at Chicago.  
+Group project for CS 398 (Undergrad Research) at University of Illinois at Chicago. 
+
+A Google web-cralwer to retrieve 100 links for each query.
 
 Group members:
 Alexis Urquiza, 
