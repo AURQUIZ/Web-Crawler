@@ -1,2 +1,2 @@
-# Web-Crawler
-Undergraduate Research (CS 398) at University of Illinois at Chicago
+# Google Web-Crawler
+Group project for CS 398 (Undergrad Research) at University of Illinois at Chicago.
